@@ -3,7 +3,7 @@ I wanted to check one thing in fragment shader and ended up with this...
 
 The grid has reduced moire patters, tho!
 
-![](screenshot.png)
+![](sample.gif)
 
 # Build
 ```powershell
